@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - profile/README.md
+  workflow_dispatch:
 
 permissions:
   contents: write
