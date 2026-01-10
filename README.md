@@ -6,9 +6,9 @@
 
 _Non-custodial refers to a system architecture in which the protocol never takes possession, control, or discretionary authority over users' funds at any point in the transaction lifecycle._
 
-## Overview
-
 ![Shreeed banner](/assets/banner.png)
+
+## Overview
 
 Shreeed is an open-source cryptocurrency payment gateway designed to achieve a high degree of decentralization in its transaction model while ensuring full transparency. The proposed infrastructure enables merchants to accept cryptocurrency payments directly into their own wallets without relinquishing custody of their funds or relying on trusted intermediaries.
 
